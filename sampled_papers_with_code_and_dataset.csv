@@ -1,0 +1,31 @@
+title,year,venue,topic,Has Code,Has Public Dataset
+Comparing outcomes of out-of-hospital cardiac arrest patients with initial shockable rhythm in Singapore and Osaka using population-based databases,2023,pubmed,E.H.R,False,No Public Dataset
+Pre-CCRT 18-fluorodeoxyglucose PET-CT improves survival in patients with advanced stages p16-negative oropharyngeal squamous cell carcinoma via accurate radiation treatment planning,2023,pubmed,E.H.R,False,No Public Dataset
+The âBeam-Me-In Strategyâ â remote haptic therapist-patient interaction with two exoskeletons for stroke therapy,2019,pubmed,E.H.R,False,No Public Dataset
+Attentive Adversarial Network for Large-Scale Sleep Staging,2020,MLHC,Biosignals,False,Physionet
+Representation Learning Approaches to Detect False Arrhythmia Alarms from ECG Waveforms,2018,MLHC,Biosignals,False,Physionet
+Estimation of fine particulate matter in an arid area from visibility based on machine learning,2023,pubmed,E.H.R,False,No Public Dataset
+Multimodal representation learning for predicting moleculeâdisease relations,2023,pubmed,Biomedicine,True,No Public Dataset
+Explainable statistical learning in public health for policy development: the case of real-world suicide data,2019,pubmed,E.H.R,False,No Public Dataset
+Non-invasive arterial blood pressure measurement and SpO2 estimation using PPG signal: a deep learning framework,2023,pubmed,Biosignals,True,"Mimic, Physionet"
+Artificial intelligence-based decision-making for age-related macular degeneration,2019,pubmed,Clinical Images,False,No Public Dataset
+Machine learning model from a Spanish cohort for prediction of SARS-COV-2 mortality risk and critical patients,2022,pubmed,E.H.R,False,No Public Dataset
+Machine learning enabled subgroup analysis with real-world data to inform clinical trial eligibility criteria design,2023,pubmed,E.H.R,False,No Public Dataset
+Predicting Antibiotic Resistance in Mycobacterium Tuberculosis with Genomic Machine Learning,2020,MLHC,Biomedicine,False,No Public Dataset
+Upper-Limb Motion Recognition Based on Hybrid Feature Selection: Algorithm Development and Validation,2021,pubmed,Biosignals,False,No Public Dataset
+DrugMAP: molecular atlas and pharma-informationÂ of all drugs,2022,pubmed,Biomedicine,False,No Public Dataset
+Reinforcement Learning with Action-Derived Rewards for Chemotherapy and Clinical Trial Dosing Regimen Selection,2018,MLHC,E.H.R,False,No Public Dataset
+Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity,2022,MLHC,Clinical Images,False,No Public Dataset
+Identification and validation of novel biomarkers affecting bladder cancer immunotherapy via machine learning and its association with M2 macrophages,2022,pubmed,Biomedicine,False,Tcga
+Personalized Risk Analysis to Improve the Psychological Resilience of Women Undergoing Treatment for Breast Cancer: Development of a Machine LearningâDriven Clinical Decision Support Tool,2023,pubmed,E.H.R,False,No Public Dataset
+Physio MTL: Personalizing Physiological Patterns Using Optimal Transport Multi-Task Regression,2022,CHIL,Biosignals,True,"Physionet, Tuh Eeg Artifact Corpus"
+Automatic determination of cardiovascular risk by CT attenuation correction maps in Rb-82 PET/CT,2018,pubmed,Clinical Images,False,No Public Dataset
+Comparing a pre-defined versus deep learning approach for extracting brain atrophy patterns to predict cognitive decline due to Alzheimerâs disease in patients with mild cognitive symptoms,2023,pubmed,Clinical Images,False,Adni
+Towards Cross-Modal Causal Structure and Representation Learning,2022,ML4H,Clinical Images,True,No Public Dataset
+Development of a machine learning-based acuity score prediction model for virtual care settings,2023,pubmed,E.H.R,False,No Public Dataset
+Predicting medication adherence using ensemble learning and deep learning models with large scale healthcare data,2021,pubmed,E.H.R,False,Mimic
+Telemonitoring in Long-COVID PatientsâPreliminary Findings,2022,pubmed,Biosignals,False,No Public Dataset
+Semi-Supervised Meta-Learning for Multi-Source Heterogeneity in Time-Series Data,2023,MLHC,E.H.R,True,"Mimic, Physionet"
+Classifying Unstructured Clinical Notes via Automatic Weak Supervision,2022,MLHC,E.H.R,True,"Mimic, Paper With Code Data"
+Learning from Failure: Explaining Clinical Machine Learning Model Prediction Errors,2022,MLHC,E.H.R,False,Mimic
+Knowledge Base Completion for Constructing Problem-Oriented Medical Records,2020,MLHC,E.H.R,True,No Public Dataset
