@@ -116,4 +116,4 @@ which can be used to compute the final validation results in the Appendix table 
 
 
 ## Contact
-Please make a github issue and/or email johnwu3@illinois.edu if something doesn't run properly. I haven't properly debugged this code after cleaning up the mess that I was originally doing as I was originally building the analysis platform.
+Please make a github issue and/or email johnwu3@illinois.edu if something doesn't run properly. I haven't properly debugged this code after cleaning up the mess that I was originally doing to produce the drafted analysis.
